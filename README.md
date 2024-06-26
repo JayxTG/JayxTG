@@ -83,7 +83,7 @@
 
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 100%; max-width: 250px; height: 50%;" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 100%; max-width: 120px;" />
     
   </div>
 </div>

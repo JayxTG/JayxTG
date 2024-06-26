@@ -82,10 +82,11 @@
   </div>
 
   <!-- Right Side: Top Languages -->
-<div style="display: flex; justify-content: space-around; margin: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 50%; max-width: 120px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayxTG&theme=github_dark" alt="Most Commit Language" style="width: 50%; max-width: 120px;" />
+<div style="display: flex; flex-direction: row; margin: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 120px; margin-right: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayxTG&theme=github_dark" alt="Most Commit Language" style="width: 120px;" />
 </div>
+
 
 </div>
 

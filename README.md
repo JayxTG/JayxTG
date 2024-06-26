@@ -24,9 +24,13 @@
 <p>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="[https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/pic-header-mathworks-logo.20240612215218946.svg](https://camo.githubusercontent.com/05dcd14dd5bbb56317db03153ecdbeb6aadbd4be251a10dab702a0158b5ad6a0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67)" alt="MATLAB"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>
+  <img src="https://github.com/github/explore/raw/main/topics/altium-designer/altium-designer.png" alt="Altium" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks"/>
   <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>

@@ -93,5 +93,6 @@
 </div>
 
 <div style="text-align: center; margin-top: 15px;">
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/JayxTG/langs)](https://githubtrends.io)
 
 </div>

@@ -93,6 +93,6 @@
 </div>
 
 <div style="text-align: center; margin-top: 15px;">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayxTG)](https://github.com/JayxTG/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayxTG)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

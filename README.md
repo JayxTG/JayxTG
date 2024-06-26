@@ -83,8 +83,7 @@
 
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
-     Markdown Usage
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 50%; max-width: 250px;" />
     
   </div>
 </div>

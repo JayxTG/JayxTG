@@ -83,7 +83,7 @@
 
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayxTG&exclude_repo=Face_Detection_OpenCV&layout=compact&theme=dark&hide_border=true" alt="Languages" style="width: 100%; max-width: 300px; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayxTG&layout=compact&theme=dark&hide_border=true" alt="Languages" style="width: 100%; max-width: 300px; height: auto;" />
     
   </div>
 </div>

@@ -83,7 +83,7 @@
 
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayxTG&layout=compact&theme=dark&hide_border=true" alt="Languages" style="width: 100%; max-width: 300px; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username&layout=compact&theme=dark&hide_border=true" alt="Languages" style="width: 100%; max-width: 300px; height: auto;" />
     
   </div>
 </div>
@@ -93,6 +93,5 @@
 </div>
 
 <div style="text-align: center; margin-top: 15px;">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayxTG)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>

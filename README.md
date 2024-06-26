@@ -68,7 +68,7 @@
   <div style="flex: 2; margin: 10px;">
     <!-- GitHub Stats Card -->
     <div style="margin-bottom: 10px;">
-      <img src="[https://github-readme-stats.vercel.app/api?username=JayxTG&show_icons=true&theme=dark&hide_border=true](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayxTG&theme=github_dark)" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayxTG&theme=github_dark" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;" />
     </div>
     <!-- GitHub Streak Stats -->
     <div>

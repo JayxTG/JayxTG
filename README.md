@@ -83,7 +83,8 @@
 
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
-     <img src="https://api.githubtrends.io/user/svg/JayxTG/langs?time_range=one_year&group=other&compact=True&theme=dark" alt="Top Languages" style="width: 50%; max-width: 250px;" />
+     Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark)
     
   </div>
 </div>

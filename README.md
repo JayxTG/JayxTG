@@ -83,7 +83,7 @@
 
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
-     <img src="https://api.githubtrends.io/user/svg/JayxTG/langs?time_range=one_year&group=other&compact=True&theme=dark" alt="Top Languages" style="width: 100%; max-width: 250px;" />
+     <img src="https://api.githubtrends.io/user/svg/JayxTG/langs?time_range=one_year&group=other&compact=True&theme=dark" alt="Top Languages" style="width: 50%; max-width: 250px;" />
     
   </div>
 </div>

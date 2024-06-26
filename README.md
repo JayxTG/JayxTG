@@ -83,7 +83,7 @@
 
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayxTG&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 250px;" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayxTG&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 250px;" />
     
   </div>
 </div>

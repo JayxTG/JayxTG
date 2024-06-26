@@ -84,9 +84,15 @@
   <!-- Right Side: Top Languages -->
   <div style="flex: 1; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayxTG&layout=compact&theme=dark&hide_border=true" alt="Languages" style="width: 100%; max-width: 300px; height: auto;" />
+    
   </div>
 </div>
 
 <div style="text-align: center; margin-top: 15px;">
   <img src="https://komarev.com/ghpvc/?username=JayxTG&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
+</div>
+
+<div style="text-align: center; margin-top: 15px;">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayxTG)](https://github.com/JayxTG/github-readme-stats)
+
 </div>

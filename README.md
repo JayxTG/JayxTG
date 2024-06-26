@@ -72,7 +72,8 @@
     </div>
     <!-- GitHub Streak Stats -->
     <div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayxTG&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 400px; height: auto;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 45%; margin-right: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayxTG&theme=github_dark&utcOffset=8" alt="Most Commit Language" style="width: 45%;" />
     </div>
   </div>
 

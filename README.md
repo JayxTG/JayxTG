@@ -1,48 +1,4 @@
-<h1 align="center">
-  <span id="typing"></span>
-</h1>
-
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-
-  @keyframes blink {
-    50% { border-color: transparent; }
-  }
-
-  #typing {
-    font-family: monospace;
-    display: inline-block;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: .15em;
-    animation: 
-      typing 3.5s steps(40, end),
-      blink .75s step-end infinite;
-  }
-</style>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const typingElement = document.getElementById("typing");
-    const text = "Hi 👋, I'm Jayamadu Gammune";
-    let index = 0;
-
-    function type() {
-      if (index < text.length) {
-        typingElement.innerHTML += text.charAt(index);
-        index++;
-        setTimeout(type, 100);
-      }
-    }
-
-    type();
-  });
-</script>
+<h1 align="center">Hi 👋, I'm Jayamadu Gammune</h1>
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 
 <p>

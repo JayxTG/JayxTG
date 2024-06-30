@@ -63,19 +63,6 @@
 
 <h2>GitHub Insights</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; border-bottom: 2px solid #ddd; padding-bottom: 20px;">
-  <!-- Left Side: GitHub Stats and Contributions -->
-  <div style="flex: 2; margin: 10px;">
-    <!-- GitHub Stats Card -->
-    <div style="margin-bottom: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayxTG&theme=github_dark" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;" />
-    </div>
-    <!-- GitHub Streak Stats -->
-    <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 49%; margin-right: 10px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 49%;" />
-    </div>
-  </div>
 
   <!-- Divider Line -->
   <div style="flex: 0.1; text-align: center; margin: 10px;">

@@ -22,23 +22,22 @@
 
 <h2>Tech Stack & Tools:</h2>
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>
-  <img src="https://github.com/github/explore/raw/main/topics/altium-designer/altium-designer.png" alt="Altium" width="48" height="48"/>
-  <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks"/>
-  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>
-  <img src="https://www.labcenter.com/images/logo.png" alt="Proteus" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="Wolfram Alpha" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
+<img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi"/>
+<img src="https://github.com/github/explore/raw/main/topics/altium-designer/altium-designer.png" alt="Altium" width="48" height="48"/>
+<img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks"/>
+<img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+<img src="https://www.labcenter.com/images/logo.png" alt="Proteus" width="48" height="48"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Mathematica_Logo.svg" alt="Wolfram Alpha" width="48" height="48"/>
 </p>
 
 <h2>Let's Connect!</h2>

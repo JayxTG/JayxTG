@@ -68,12 +68,12 @@
   <div style="flex: 2; margin: 10px;">
     <!-- GitHub Stats Card -->
     <div style="margin-bottom: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayxTG&theme=dark" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayxTG&theme=transparent" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;" />
     </div>
     <!-- GitHub Streak Stats -->
     <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayxTG&theme=dark" alt="Top Languages" style="width: 49%; margin-right: 10px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=dark" alt="Top Languages" style="width: 49%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayxTG&theme=transparent" alt="Top Languages" style="width: 49%; margin-right: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=transparent" alt="Top Languages" style="width: 49%;" />
     </div>
   </div>
 

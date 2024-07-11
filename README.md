@@ -92,6 +92,5 @@
 
 <div style="text-align: center; margin-top: 15px;">
   <img src="https://komarev.com/ghpvc/?username=JayxTG&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JayxTG&show_icons=true&locale=en" alt="JayxTG" width="48%"/> </p>
 </div>
 

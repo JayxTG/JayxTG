@@ -69,7 +69,7 @@
   <div style="flex: 2; margin: 10px;">
     <!-- GitHub Stats Card -->
     <div style="margin-bottom: 10px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayxTG&theme=github_dark" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayxTG&theme=transparent" alt="GitHub Stats" style="width: 100%; max-width: 400px; height: auto;" />
     </div>
     <!-- GitHub Streak Stats -->
     <div>

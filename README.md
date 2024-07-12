@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jayamadu Gammune</h1>
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 
-<!---
-<table>
-<tr>
-  
-<td>
-</td>
-  
-<td>
-</td>
+<p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
 
-</tr>
-</table>
---->
-<p><img align="right" src="https://media1.giphy.com/media/ygBzJfkJTOr0UPYnca/source.gif?raw=true" alt="adam-pw" /></p>
+🛠️ I’m looking to collaborate on CVPR, Deep learning, Signal Processing, and Robotics projects;
+
+- Gesture recognition-based projects: Recognizing human gestures for various applications, such as sign language translation, gaming or controlling electronic devices.  
+- Image Segmentation, Object Detection, and vision-based projects: Developing algorithms for analyzing images with segments or regions, based on certain criteria. In medical imaging identifying and analyzing specific structures or abnormalities.  Locating objects and detections through camera feeds.
+- Signal processing and deep learning-based projects: Filtering and enhancing signals, Sequential models to analyze signals, LSTMs, Bi-LSTMs,  RNNs, Transformers, and projects on NLP.
+- ROS-based robotic projects: Love to work with Jetson Nano, Raspberry Pi, Orange Pi, and other Linux SBCs (Single Board Computers) implementing Deep Neural Networks for Vision tasks on Robotics projects: 3D point cloud-based autonomous navigation tasks.
+  
 <p>
   As a passionate third-year undergraduate majoring in Biomedical Engineering, I am at the forefront of merging technology with healthcare solutions. My academic journey at the University of Moratuwa has fueled my interests in cutting-edge areas such as prosthetics, exoskeletons, robotics, medical instrumentation, and wearable electronics. I am driven by the potential to innovate within these fields, applying my growing expertise in product design, programming, image processing, and app development to create impactful solutions.
 

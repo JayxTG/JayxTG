@@ -73,8 +73,8 @@
     </div>
     <!-- GitHub Streak Stats -->
     <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 49%; margin-right: 10px;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=github_dark" alt="Top Languages" style="width: 49%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayxTG&theme=transparent" alt="Top Languages" style="width: 49%; margin-right: 10px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayxTG&theme=transparent" alt="Top Languages" style="width: 49%;" />
     </div>
   </div>
 

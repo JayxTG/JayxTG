@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayamadu Gammune</h1>
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 
-<p>
-  <img align="right" src="https://media1.giphy.com/media/ygBzJfkJTOr0UPYnca/source.gif?raw=true" alt="adam-pw" style="width: 25%; height: 25%;" />
-</p>
+<p><img align="right" src="https://github.com/HasithaGallella/HasithaGallella/blob/main/Images/Coding.gif?raw=true" alt="adam-pw" /></p>
 
 
 

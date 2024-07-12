@@ -83,7 +83,6 @@
 
   <!-- Right Side: Top Languages -->
 <div style="display: flex; flex-direction: row; margin: 10px;">
-<img src="https://media1.giphy.com/media/ygBzJfkJTOr0UPYnca/source.gif" />
   
 
 </div>

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayamadu Gammune</h1>
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 
-<p><img align="centre" src="source.gif?raw=true" alt="adam-pw" style="width: 25%; height: 25%;"/></p>
-
-
 
 
 <p>
@@ -15,6 +12,7 @@
 </p>
 
 <h2>Areas of Interests:</h2>
+<p><img align="centre" src="source.gif?raw=true" alt="adam-pw" style="width: 25%; height: 25%;"/></p>
 <ul>
   <li>Prosthetics and Exoskeletons</li>
   <li>Medical Robotics</li>

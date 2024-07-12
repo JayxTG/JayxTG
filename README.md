@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Jayamadu Gammune</h1>
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
+
+<!---
+<table>
+<tr>
+  
+<td>
+</td>
+  
+<td>
+</td>
+
+</tr>
+</table>
+--->
 <p><img align="right" src="https://media1.giphy.com/media/ygBzJfkJTOr0UPYnca/source.gif?raw=true" alt="adam-pw" /></p>
 <p>
   As a passionate third-year undergraduate majoring in Biomedical Engineering, I am at the forefront of merging technology with healthcare solutions. My academic journey at the University of Moratuwa has fueled my interests in cutting-edge areas such as prosthetics, exoskeletons, robotics, medical instrumentation, and wearable electronics. I am driven by the potential to innovate within these fields, applying my growing expertise in product design, programming, image processing, and app development to create impactful solutions.

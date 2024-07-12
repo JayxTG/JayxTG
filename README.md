@@ -12,7 +12,7 @@
 </p>
 
 <h2>Areas of Interests:</h2>
-<p><img align="centre" src="source.gif?raw=true" alt="adam-pw" style="width: 25%; height: 25%;"/></p>
+<p><img align="right" src="source.gif?raw=true" alt="adam-pw" style="width: 25%; height: 25%;"/></p>
 <ul>
   <li>Prosthetics and Exoskeletons</li>
   <li>Medical Robotics</li>

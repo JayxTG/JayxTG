@@ -15,7 +15,7 @@
   </div>
   <div style="flex: 1;">
     <!-- Your GIF goes here -->
-    <img src="https://your-gif-url-here.gif" alt="Your GIF description" style="max-width: 100%; height: auto;">
+    <img src="source.gif" alt="Your GIF description" style="max-width: 100%; height: auto;">
   </div>
 </div>
 

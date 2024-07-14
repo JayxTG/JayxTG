@@ -2,7 +2,7 @@
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 <img src="source1.gif" width="300" align="right"/>
 
-<p align="left">
+<p align="justify">
   As a passionate third-year undergraduate majoring in Biomedical Engineering, I am at the forefront of merging technology with healthcare solutions. My academic journey at the University of Moratuwa has fueled my interests in cutting-edge areas such as prosthetics, exoskeletons, robotics, medical instrumentation, and wearable electronics. I am driven by the potential to innovate within these fields, applying my growing expertise in product design, programming, image processing, and app development to create impactful solutions.
 
   My focus lies in developing advanced prosthetics and exoskeletons that can significantly improve the quality of life for individuals with mobility challenges. I'm equally enthusiastic about pushing the boundaries of medical robotics, designing precise and minimally invasive systems for surgical applications. In the realm of medical instrumentation, I'm working towards creating more accurate, efficient, and user-friendly devices. Additionally, my passion for wearable electronics drives me to explore how we can seamlessly integrate health monitoring into everyday life.

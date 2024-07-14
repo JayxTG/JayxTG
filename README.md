@@ -91,7 +91,7 @@ My focus lies in developing advanced prosthetics and exoskeletons that can signi
   <!-- Right Side: Top Languages -->
 <div style="display: flex; flex-direction: row; margin: 10px;">
   
-<img src="https://github-readme-stats.vercel.app/api?username=samudrauduwaka&show_icons=true&locale=en" alt="samudrauduwaka" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JayxTG&show_icons=true&locale=en" alt="samudrauduwaka" width="48%"/>
 </div>
 
 

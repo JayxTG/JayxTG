@@ -2,7 +2,8 @@
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 
 
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
 <p>
   As a passionate third-year undergraduate majoring in Biomedical Engineering, I am at the forefront of merging technology with healthcare solutions. My academic journey at the University of Moratuwa has fueled my interests in cutting-edge areas such as prosthetics, exoskeletons, robotics, medical instrumentation, and wearable electronics. I am driven by the potential to innovate within these fields, applying my growing expertise in product design, programming, image processing, and app development to create impactful solutions.
 
@@ -10,6 +11,13 @@
 
   Through hands-on projects, rigorous academic coursework, and collaborative research opportunities, I am building a strong foundation to contribute meaningfully to the biomedical engineering field. I am committed to continuous learning and staying abreast of the latest technological advancements. My goal is to bridge the gap between engineering principles and healthcare needs, developing innovative solutions that have a tangible impact on patient care and medical practices.
 </p>
+
+  </div>
+  <div style="flex: 1;">
+    <!-- Your GIF goes here -->
+    <img src="https://your-gif-url-here.gif" alt="Your GIF description" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 <h2>Areas of Interests:</h2>
 <ul>

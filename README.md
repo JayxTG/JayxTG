@@ -6,11 +6,8 @@
 <img src="source1.gif" width="300" align="right"/>
 
 <p align="justify">
-As a passionate third-year undergraduate majoring in Biomedical Engineering, I am at the forefront of merging technology with healthcare solutions. My academic journey at the University of Moratuwa has fueled my interests in cutting-edge areas such as prosthetics, exoskeletons, robotics, medical instrumentation, and wearable electronics. I am driven by the potential to innovate within these fields, applying my growing expertise in product design, programming, image processing, and app development to create impactful solutions.
-
-My focus lies in developing advanced prosthetics and exoskeletons that can significantly improve the quality of life for individuals with mobility challenges. I'm equally enthusiastic about pushing the boundaries of medical robotics, designing precise and minimally invasive systems for surgical applications. In the realm of medical instrumentation, I'm working towards creating more accurate, efficient, and user-friendly devices. Additionally, my passion for wearable electronics drives me to explore how we can seamlessly integrate health monitoring into everyday life.
-
- Through hands-on projects, rigorous academic coursework, and collaborative research opportunities, I am building a strong foundation to contribute meaningfully to the biomedical engineering field. I am committed to continuous learning and staying abreast of the latest technological advancements. My goal is to bridge the gap between engineering principles and healthcare needs, developing innovative solutions that have a tangible impact on patient care and medical practices.
+As a third-year Biomedical Engineering student at the University of Moratuwa, I'm passionate about merging technology with healthcare. My interests include prosthetics, exoskeletons, medical robotics, instrumentation, and wearable electronics. I'm developing skills in product design, programming, image processing, and app development to create innovative solutions in these areas.
+My focus is on advancing prosthetics and exoskeletons to improve mobility, enhancing medical robotics for precise surgeries, and developing efficient medical instruments and wearable health monitors. Through coursework, projects, and research, I'm building expertise to contribute meaningfully to biomedical engineering, aiming to create impactful solutions that bridge engineering and healthcare needs.
 </p>
 
 

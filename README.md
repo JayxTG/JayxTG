@@ -88,10 +88,7 @@ My focus lies in developing advanced prosthetics and exoskeletons that can signi
     <hr style="border: none; border-left: 2px solid #ddd; height: 200px;" />
   </div>
 
-  <!-- Right Side: Top Languages -->
-<div style="display: flex; flex-direction: row; margin: 10px;">
-  
-</div>
+
 
 
 </div>

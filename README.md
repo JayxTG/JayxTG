@@ -2,22 +2,18 @@
 <h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 
 
-<table>
-  <tr>
-    <td style="width: 70%;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+  As a passionate third-year undergraduate majoring in Biomedical Engineering, I am at the forefront of merging technology with healthcare solutions. My academic journey at the University of Moratuwa has fueled my interests in cutting-edge areas such as prosthetics, exoskeletons, robotics, medical instrumentation, and wearable electronics. I am driven by the potential to innovate within these fields, applying my growing expertise in product design, programming, image processing, and app development to create impactful solutions.
 
-      As a passionate third-year undergraduate majoring in Biomedical Engineering, I am at the forefront of merging technology with healthcare solutions. My academic journey at the University of Moratuwa has fueled my interests in cutting-edge areas such as prosthetics, exoskeletons, robotics, medical instrumentation, and wearable electronics. I am driven by the potential to innovate within these fields, applying my growing expertise in product design, programming, image processing, and app development to create impactful solutions.
+  My focus lies in developing advanced prosthetics and exoskeletons that can significantly improve the quality of life for individuals with mobility challenges. I'm equally enthusiastic about pushing the boundaries of medical robotics, designing precise and minimally invasive systems for surgical applications. In the realm of medical instrumentation, I'm working towards creating more accurate, efficient, and user-friendly devices. Additionally, my passion for wearable electronics drives me to explore how we can seamlessly integrate health monitoring into everyday life.
 
-      My focus lies in developing advanced prosthetics and exoskeletons that can significantly improve the quality of life for individuals with mobility challenges. I'm equally enthusiastic about pushing the boundaries of medical robotics, designing precise and minimally invasive systems for surgical applications. In the realm of medical instrumentation, I'm working towards creating more accurate, efficient, and user-friendly devices. Additionally, my passion for wearable electronics drives me to explore how we can seamlessly integrate health monitoring into everyday life.
-
-      Through hands-on projects, rigorous academic coursework, and collaborative research opportunities, I am building a strong foundation to contribute meaningfully to the biomedical engineering field. I am committed to continuous learning and staying abreast of the latest technological advancements. My goal is to bridge the gap between engineering principles and healthcare needs, developing innovative solutions that have a tangible impact on patient care and medical practices.
-
-    </td>
-    <td style="width: 30%; text-align: center;">
-      <img src="source.gif" alt="Your GIF description" style="max-width: 100%; height: auto;">
-    </td>
-  </tr>
-</table>
+  Through hands-on projects, rigorous academic coursework, and collaborative research opportunities, I am building a strong foundation to contribute meaningfully to the biomedical engineering field. I am committed to continuous learning and staying abreast of the latest technological advancements. My goal is to bridge the gap between engineering principles and healthcare needs, developing innovative solutions that have a tangible impact on patient care and medical practices.
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="source.gif" alt="Biomedical Engineering Concept" style="max-width: 100%; height: auto;">
+  </div>
+</div>
 
 
 <h2>Areas of Interests:</h2>

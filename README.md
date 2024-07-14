@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayamadu Gammune</h1>
-<br>
-<h2 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
+<h3 align="center">Third-Year Undergraduate in Biomedical Engineering, University of Moratuwa</h3>
 <br>
 
 

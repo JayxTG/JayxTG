@@ -14,16 +14,10 @@ My focus lies in developing advanced prosthetics and exoskeletons that can signi
 </p>
 
 
- 
-
- 
-
-
-
 <h2>Areas of Interests:</h2>
 <ul>
   <li>Prosthetics and Exoskeletons</li>
-  <li>Medical Robotics</li>
+  <li>Robotics</li>
   <li>Medical Instrumentation</li>
   <li>Wearable Electronics</li>
   <li>Product Design</li>

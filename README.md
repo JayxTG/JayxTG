@@ -13,6 +13,8 @@ My focus lies in developing advanced prosthetics and exoskeletons that can signi
  Through hands-on projects, rigorous academic coursework, and collaborative research opportunities, I am building a strong foundation to contribute meaningfully to the biomedical engineering field. I am committed to continuous learning and staying abreast of the latest technological advancements. My goal is to bridge the gap between engineering principles and healthcare needs, developing innovative solutions that have a tangible impact on patient care and medical practices.
 </p>
 
+<p align="left"> <a href="https://github.com/JayxTG/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedpr0" alt="mohamedpr0" /></a> </p>
+ 
 
 
 

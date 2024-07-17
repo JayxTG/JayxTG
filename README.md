@@ -13,9 +13,9 @@ My focus lies in developing advanced prosthetics and exoskeletons that can signi
  Through hands-on projects, rigorous academic coursework, and collaborative research opportunities, I am building a strong foundation to contribute meaningfully to the biomedical engineering field. I am committed to continuous learning and staying abreast of the latest technological advancements. My goal is to bridge the gap between engineering principles and healthcare needs, developing innovative solutions that have a tangible impact on patient care and medical practices.
 </p>
 
-
-<h2>Areas of Interests:</h2>
 <img src="source1.gif" width="330" align="right"/>
+<h2>Areas of Interests:</h2>
+
 <ul>
   <li>Prosthetics and Exoskeletons</li>
   <li>Robotics and Automation</li>

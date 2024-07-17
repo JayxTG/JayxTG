@@ -15,6 +15,7 @@ My focus lies in developing advanced prosthetics and exoskeletons that can signi
 
 
 <h2>Areas of Interests:</h2>
+<img src="source1.gif" width="330" align="right"/>
 <ul>
   <li>Prosthetics and Exoskeletons</li>
   <li>Robotics and Automation</li>
